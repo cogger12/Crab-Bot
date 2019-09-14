@@ -3,4 +3,4 @@ This is a bot that responds with crab emojis when you use the word gone in a sen
 
 This bot requires [discord.js](https://discord.js.org/#/) and [node.js](https://nodejs.org/en/) to run.
 
-(https://i.imgur.com/9BtQKoW.png)
+![picture](https://i.imgur.com/9BtQKoW.png)
